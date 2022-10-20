@@ -1,1 +1,0 @@
-# conversao-temperatura-kube
